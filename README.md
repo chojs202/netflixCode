@@ -1,2 +1,2 @@
-# netflixCode
-netflixCode
+# NetFlixClone Code
+
